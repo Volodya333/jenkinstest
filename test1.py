@@ -16,9 +16,5 @@ def test_dev():
 
 
 
-def sub(num):
-    return num - 2
 
-def test_sub():
-    assert sub(4) == 2
     
